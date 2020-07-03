@@ -3,7 +3,7 @@
 *.py[cod]
 *.egg-info/
 
-.vs_code/
+.vscode/
 
 .DS_Store
 
