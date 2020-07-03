@@ -1,0 +1,14 @@
+*.egg-info/
+*.ipynb_checkpoints/
+*.py[cod]
+*.egg-info/
+
+.vs_code/
+
+.DS_Store
+
+*.old*
+
+.idea
+
+
